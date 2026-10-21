@@ -1,0 +1,7 @@
+.git
+.github
+Dockerfile
+.dockerignore
+README.md
+*.txt
+index_gravity_backup.php
